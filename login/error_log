@@ -1,0 +1,75 @@
+[18-Nov-2021 11:54:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function bulan() in /home/dtek9578/public_html/skripsi/ahmad/module/metode/index.php:74
+Stack trace:
+#0 /home/dtek9578/public_html/skripsi/ahmad/media.php(24): include()
+#1 {main}
+  thrown in /home/dtek9578/public_html/skripsi/ahmad/module/metode/index.php on line 74
+[18-Nov-2021 11:54:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function bulan() in /home/dtek9578/public_html/skripsi/ahmad/module/metode/index.php:74
+Stack trace:
+#0 /home/dtek9578/public_html/skripsi/ahmad/media.php(24): include()
+#1 {main}
+  thrown in /home/dtek9578/public_html/skripsi/ahmad/module/metode/index.php on line 74
+[18-Nov-2021 11:55:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function bulan() in /home/dtek9578/public_html/skripsi/ahmad/module/metode/index.php:74
+Stack trace:
+#0 /home/dtek9578/public_html/skripsi/ahmad/media.php(24): include()
+#1 {main}
+  thrown in /home/dtek9578/public_html/skripsi/ahmad/module/metode/index.php on line 74
+[25-Nov-2021 09:35:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function bulan() in /home/dtek9578/public_html/skripsi/ahmad/module/metode/index.php:74
+Stack trace:
+#0 /home/dtek9578/public_html/skripsi/ahmad/media.php(24): include()
+#1 {main}
+  thrown in /home/dtek9578/public_html/skripsi/ahmad/module/metode/index.php on line 74
+[25-Nov-2021 09:35:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function bulan() in /home/dtek9578/public_html/skripsi/ahmad/module/metode/index.php:74
+Stack trace:
+#0 /home/dtek9578/public_html/skripsi/ahmad/media.php(24): include()
+#1 {main}
+  thrown in /home/dtek9578/public_html/skripsi/ahmad/module/metode/index.php on line 74
+[14-Dec-2021 12:48:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function bulan() in /home/dtek9578/public_html/skripsi/ahmad/module/metode/index.php:74
+Stack trace:
+#0 /home/dtek9578/public_html/skripsi/ahmad/media.php(24): include()
+#1 {main}
+  thrown in /home/dtek9578/public_html/skripsi/ahmad/module/metode/index.php on line 74
+[23-Dec-2021 10:57:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function bulan() in /home/dtek9578/public_html/skripsi/ahmad/module/metode/index.php:74
+Stack trace:
+#0 /home/dtek9578/public_html/skripsi/ahmad/media.php(24): include()
+#1 {main}
+  thrown in /home/dtek9578/public_html/skripsi/ahmad/module/metode/index.php on line 74
+[01-Jan-2022 12:46:26 Asia/Jakarta] PHP Warning:  include(module/pasien/index.php): failed to open stream: No such file or directory in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[01-Jan-2022 12:46:26 Asia/Jakarta] PHP Warning:  include(): Failed opening 'module/pasien/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[01-Jan-2022 12:46:30 Asia/Jakarta] PHP Warning:  include(module/pasien/index.php): failed to open stream: No such file or directory in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[01-Jan-2022 12:46:30 Asia/Jakarta] PHP Warning:  include(): Failed opening 'module/pasien/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[01-Jan-2022 12:54:09 Asia/Jakarta] PHP Warning:  include(): Failed opening 'module/product/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[02-Jan-2022 21:06:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or ',' in /home/dtek9578/public_html/skripsi/ahmad/module/metode/index.php on line 272
+[02-Jan-2022 21:06:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/dtek9578/public_html/skripsi/ahmad/module/metode/index.php on line 374
+[02-Jan-2022 21:08:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/dtek9578/public_html/skripsi/ahmad/module/metode/index.php on line 552
+[02-Jan-2022 21:08:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/dtek9578/public_html/skripsi/ahmad/module/metode/index.php on line 728
+[05-Jan-2022 20:38:08 Asia/Jakarta] PHP Warning:  include(module/user/index.php): failed to open stream: No such file or directory in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[05-Jan-2022 20:38:08 Asia/Jakarta] PHP Warning:  include(): Failed opening 'module/user/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[05-Jan-2022 20:38:44 Asia/Jakarta] PHP Warning:  include(module/user/index.php): failed to open stream: No such file or directory in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[05-Jan-2022 20:38:44 Asia/Jakarta] PHP Warning:  include(): Failed opening 'module/user/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[05-Jan-2022 20:38:45 Asia/Jakarta] PHP Warning:  include(module/user/index.php): failed to open stream: No such file or directory in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[05-Jan-2022 20:38:45 Asia/Jakarta] PHP Warning:  include(): Failed opening 'module/user/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[05-Jan-2022 20:38:49 Asia/Jakarta] PHP Warning:  include(module/user/index.php): failed to open stream: No such file or directory in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[05-Jan-2022 20:38:49 Asia/Jakarta] PHP Warning:  include(): Failed opening 'module/user/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[05-Jan-2022 20:38:59 Asia/Jakarta] PHP Warning:  include(module/user/index.php): failed to open stream: No such file or directory in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[05-Jan-2022 20:38:59 Asia/Jakarta] PHP Warning:  include(): Failed opening 'module/user/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[05-Jan-2022 21:05:11 Asia/Jakarta] PHP Warning:  include(module/user/index.php): failed to open stream: No such file or directory in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[05-Jan-2022 21:05:11 Asia/Jakarta] PHP Warning:  include(): Failed opening 'module/user/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[10-Jan-2022 15:18:18 Asia/Jakarta] PHP Warning:  include(module/user/index.php): failed to open stream: No such file or directory in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[10-Jan-2022 15:18:18 Asia/Jakarta] PHP Warning:  include(): Failed opening 'module/user/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[10-Jan-2022 15:21:32 Asia/Jakarta] PHP Warning:  include(module/user/create.php): failed to open stream: No such file or directory in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[10-Jan-2022 15:21:32 Asia/Jakarta] PHP Warning:  include(): Failed opening 'module/user/create.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[10-Jan-2022 15:24:10 Asia/Jakarta] PHP Warning:  include(module/user/create.php): failed to open stream: No such file or directory in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[10-Jan-2022 15:24:10 Asia/Jakarta] PHP Warning:  include(): Failed opening 'module/user/create.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dtek9578/public_html/skripsi/ahmad/media.php on line 24
+[17-Jan-2022 21:16:24 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/dtek9578/public_html/skripsi/ahmad/login/module/dashboard.php on line 94
+[17-Jan-2022 21:16:35 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/dtek9578/public_html/skripsi/ahmad/login/module/dashboard.php on line 94
+[17-Jan-2022 21:16:57 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/dtek9578/public_html/skripsi/ahmad/login/module/dashboard.php on line 94
+[24-Jan-2022 20:18:54 Asia/Jakarta] PHP Warning:  include(module/transaksi/laporan.php): failed to open stream: No such file or directory in /home/dtek9578/public_html/skripsi/ahmad/login/media.php on line 24
+[24-Jan-2022 20:18:54 Asia/Jakarta] PHP Warning:  include(): Failed opening 'module/transaksi/laporan.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dtek9578/public_html/skripsi/ahmad/login/media.php on line 24
+[24-Jan-2022 20:37:13 Asia/Jakarta] PHP Warning:  include(module/obat/laporan.php): failed to open stream: No such file or directory in /home/dtek9578/public_html/skripsi/ahmad/login/media.php on line 24
+[24-Jan-2022 20:37:13 Asia/Jakarta] PHP Warning:  include(): Failed opening 'module/obat/laporan.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dtek9578/public_html/skripsi/ahmad/login/media.php on line 24
+[07-Feb-2022 21:05:47 Asia/Jakarta] PHP Warning:  include(module/laporan/index.php): failed to open stream: No such file or directory in /home/dtek9578/public_html/skripsi/ahmad/login/media.php on line 24
+[07-Feb-2022 21:05:47 Asia/Jakarta] PHP Warning:  include(): Failed opening 'module/laporan/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dtek9578/public_html/skripsi/ahmad/login/media.php on line 24
+[07-Feb-2022 21:06:06 Asia/Jakarta] PHP Warning:  include(module/laporan/index.php): failed to open stream: No such file or directory in /home/dtek9578/public_html/skripsi/ahmad/login/media.php on line 24
+[07-Feb-2022 21:06:06 Asia/Jakarta] PHP Warning:  include(): Failed opening 'module/laporan/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dtek9578/public_html/skripsi/ahmad/login/media.php on line 24
+[07-Feb-2022 21:06:22 Asia/Jakarta] PHP Warning:  include(module/laporan/index.php): failed to open stream: No such file or directory in /home/dtek9578/public_html/skripsi/ahmad/login/media.php on line 24
+[07-Feb-2022 21:06:22 Asia/Jakarta] PHP Warning:  include(): Failed opening 'module/laporan/index.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dtek9578/public_html/skripsi/ahmad/login/media.php on line 24
